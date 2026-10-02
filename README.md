@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Taysser 👋
 
-<!--
-**tayssermahmoud4-del/tayssermahmoud4-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student learning **Data Analytics**, based in Ismailia, Egypt.
 
-Here are some ideas to get you started:
+## 🔧 Tools I'm learning
+- Python (Pandas, Matplotlib)
+- SQL
+- Excel
+- Power BI
+- Table
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- [Data Analysis Journey](https://github.com/tayssermahmoud4-del/data-analysis-journey): my learning log
+- More projects coming soon
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/taysser-mahmoud)
