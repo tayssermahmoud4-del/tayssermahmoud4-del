@@ -7,7 +7,7 @@ Computer Science student learning **Data Analytics**, based in Ismailia, Egypt.
 - SQL
 - Excel
 - Power BI
-- Table
+- Tableau
 
 ## 📂 Projects
 - [Data Analysis Journey](https://github.com/tayssermahmoud4-del/data-analysis-journey): my learning log
